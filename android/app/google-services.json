@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "90767447628",
+    "project_id": "pfefr-edce7",
+    "storage_bucket": "pfefr-edce7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:90767447628:android:61230753c10865e99b06e9",
+        "android_client_info": {
+          "package_name": "com.example.pfe2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "90767447628-uf1admgkgdk18iici66c1n5bd75dskbb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdqYzqYhAoNtTNZs9W5ho7mixWS12jjgU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "90767447628-uf1admgkgdk18iici66c1n5bd75dskbb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
